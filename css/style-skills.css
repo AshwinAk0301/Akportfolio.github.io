@@ -1,0 +1,58 @@
+body
+{
+    background-color: rgb(124, 124, 114);
+   font-size: large;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.fed
+{
+    color: beige;
+    position: absolute;
+    top: 50%;
+    left: 35%;     
+    transform: translate(-50%,-50%);
+    padding :20px;
+    box-sizing: border-box;
+    background: rgb(114, 112, 112);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+    display: flex ;    
+}
+
+.fed .content
+{
+    margin-left: 3%;
+}
+
+.wdi img
+{
+    border-radius: 30px;
+}
+
+.pt 
+{
+    color: beige;
+    position: absolute;
+    top: 145%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding :20px;
+    box-sizing: border-box;
+    background: rgb(114, 112, 112);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+    display:  flex;
+}
+
+.pt .content
+{
+    margin-left:5%;
+    align-content: flex-start;
+}
+ 
+.pti img
+{
+    float: left;
+    border-radius: 30px;
+}
+
+  
